@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="emma" name="Emma World" cc_theme_id="family">
+	<background id="living_room.swf" name="living_room" enable="Y" default="N" is_premium="N" aid="9811" money="0" sharing="0"/>
+		<colorset enable="Y" aid="9701">
+			<color r="ccColorA">0xC2493E</color>
+		</colorset>
+		<c_parts enable="Y">
+			<c_area oc="">ccColorA</c_area>
+		</c_parts>
+	</background>
+<compositebg id="living_room.swf" name="living_room" enable="Y" default="Y" thumb="living_room.png" display_order="1" is_premium="N" money="0" sharing="0" aid="9811">
+		<bg id="cbg_bedroom_BG65" index="0">
+			<file>emma.living_room.swf</file>
+		</bg>
